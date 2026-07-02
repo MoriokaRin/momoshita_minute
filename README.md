@@ -1,0 +1,2 @@
+# momoshita_minute
+GoogleMeetを用いた全自動で議事録を作成する手順をまとめています！
